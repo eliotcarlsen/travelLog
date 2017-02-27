@@ -1,0 +1,7 @@
+.seattle, .sanfrancisco, .sandiego, .siurana {
+  cursor: pointer;
+}
+
+.seattle:hover, .sanfrancisco:hover, .sandiego:hover, .siurana:hover {
+  text-decoration: underline;
+}
